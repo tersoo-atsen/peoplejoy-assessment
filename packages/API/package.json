@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "@patientscores/api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "controller.js",
+  "scripts": {
+    "start:dev": "nodemon ./server.js",
+    "start": "node ./server.js",
+    "test": "mocha ./test/**/*.test.js --exit",
+    "lint":"npx eslint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
