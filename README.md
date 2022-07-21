@@ -41,7 +41,7 @@ The code should be written as a Node.js as a library that anyone can import and 
 Write an algorithm to process a set of historical patient data and produce a list of patients the have a high probability of accepting the offer off the waitlist.
 
 
-## Project Structure
+### Project Structure
 I have built out the solution in a monorepo using [npm workspaces](https://docs.npmjs.com/cli/v7/using-npm/workspaces#running-commands-in-the-context-of-workspaces). There is an API package and an installable library package.
 
 #### Usage:
@@ -102,7 +102,7 @@ There is one endpoint at [http://localhost:3000/api/patients](http://localhost:3
 }
 ```
 
-## Enhancement Recommendations
+### Enhancement Recommendations
 #### 1. Setting configuration.
 #### 2. CI/CD pipeline.
 #### 3. Persistence layer.
