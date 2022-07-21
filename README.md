@@ -106,4 +106,4 @@ There is one endpoint at [http://localhost:3000/api/patients](http://localhost:3
 #### 1. Setting configuration.
 #### 2. CI/CD pipeline.
 #### 3. Persistence layer.
-***Patient data is read from JSON file
+***Patient data is read from a JSON file
